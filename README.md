@@ -8,7 +8,11 @@ Built with vanilla HTML, CSS, and JavaScript. No framework. No bundler. No excus
 
 ---
 
-## Kjør spillet
+## [Spill her](https://loddefjord.stian.fan)
+http://loddefjord.stian.fan
+
+
+## Kjør spillet sjøl
 
 Ingen byggsteg. Bare start en lokal server og åpne nettleseren:
 
